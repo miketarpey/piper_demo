@@ -1,0 +1,13 @@
+{
+ "Connection1": {
+        "title": "Postgres test database",
+        "url": "",
+        "host": "localhost",
+        "service": "",
+        "port": null,
+        "sid": "",
+        "schema": "SuperMart_DB",
+        "user": "mike",
+        "pw": "pw"
+    }
+}
